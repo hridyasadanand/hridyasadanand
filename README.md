@@ -1,26 +1,11 @@
 # Hi there! 👋  
-I'm **Hridya Sadanand**, a 1st-year BTech student passionate about **Python and Open Source**.  
+I'm **Hridya Sadanand**, a BTech student passionate about **Python and Open Source**.  
 
 🚀 **Current Goals:**  
-- Contributing to **CPython Documentation** for **GSoC 2025** 📝  
-- Learning **Git, Markdown, and Open Source Contribution**  
+- Learning **Open Source Contribution**  
 - Exploring **Backend Development & Automation**  
 
 📫 **How to reach me?**  
 - GitHub: [hridyasadanand](https://github.com/hridyasadanand)  
 - LinkedIn: https://www.linkedin.com/in/hridyasadanand
 
-<!--
-**hridyasadanand/hridyasadanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
